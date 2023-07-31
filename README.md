@@ -1,5 +1,5 @@
 # Wildlife Trivia App
-    This is a Console Application meant to display random trivia to users
+  This is a Console Application meant to display random trivia to users
 
 ### How it works
     The Application will display a random message about wildlife each time a user runs it.
